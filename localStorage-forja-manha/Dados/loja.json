@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "desc": "RODAS BBS ARO 18 TALA 8 FURAÇÃO 5X112/5X120 GOLD",
+        "imagem": "../Dados/Images/roda1.webp",
+        "preco": 5810.00
+    },
+    {
+        "id":2,
+        "desc": "RODAS GT7 MODELO BBS CI-R / ARO 17X7 / (5X114) ET32",
+        "imagem": "../Dados/Images/roda3.webp",
+        "preco": 3752.75
+    },
+    {
+        "id":3,
+        "desc": "RODAS 15X10 BBS, furação 6X139,7, Off Set -50",
+        "imagem": "../Dados/Images/roda4.avif",
+        "preco": 5388.30
+    },
+    {
+        "id":4,
+        "desc": "RODA SSR SPIKE POLIDA 15x10 5X114",
+        "imagem": "../Dados/Images/roda5.jpg",
+        "preco": 5830.00
+    },
+    {
+        "id":5,
+        "desc": "RODA SSR REINER TYPE 12 ARO 17",
+        "imagem": "../Dados/Images/roda5.webp",
+        "preco": 3500.00
+    },
+    {
+        "id":6,
+        "desc": "JEGS SSR Star 15x8 Roda de Alumínio | 5x4.75 Padrão de Parafuso | 0mm Offset | Acabamento Polido",
+        "imagem": "../Dados/Images/roda6.jpg",
+        "preco": 3902.30
+    },
+    {
+        "id":7,
+        "desc": "Rodas Aro 17X7 BBS 4X100/108 Diam. Prata BRW 900",
+        "imagem": "../Dados/Images/roda7.webp",
+        "preco": 3174.96
+    },
+    {
+        "id":8,
+        "desc": "RODAS ARO 17 BRW 1000 NISSAN, MARCH VERSA KICKS",
+        "imagem": "../Dados/Images/roda10.webp",
+        "preco": 3172.00
+    },
+    {
+        "id":9,
+        "desc": "RODAS ARO 16 VOLKSWAGEN VW ORBITAL GOMÃO",
+        "imagem": "../Dados/Images/rodafeiadocaraio.webp",
+        "preco": 3036.00
+    },
+    {
+        "id":10,
+        "desc": "Rodas Custom 24 Polegada Estrutura Spinner FloaterBaller Forjado Rodas Jantes",
+        "imagem": "../Dados/Images/roda10.avif",
+        "preco": 9619.74
+    }
+]
